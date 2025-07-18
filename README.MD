@@ -74,7 +74,29 @@ Each folder contains both queries and a sample database to run those queries:
 ---
 
 ## 📂 Folder Structure
+```
+advanced-postgresql-sql-practice/
+├── CTE/
+│   ├── office_cte_db.sql
+│   └── cte.sql
+│
+├── JOINS/
+│   ├── office_Database_db.sql
+│   └── joins.sql
+│
+├── SUBQUERIES/
+│   ├── company_operations_db.sql
+│   └── subquery.sql
+│
+├── VIEWS/
+│   ├── retail_system_db.sql
+│   ├── view_user.sql
+│   └── views.sql
+│
+├── WINDOW FUNCTION/
+│   ├── employee_db_windowFunction.sql
+│   ├── gadget_hub_db_windowFunction.sql
+│   ├── windowFunction_employee_1.sql
+│   └── windowFunction_gadget_hub_2.sql
+```
 
-<pre lang="md"> ```markdown ## 📁 Folder Structure advanced-postgresql-sql-practice/ ├── CTE/ │ ├── office_cte_db.sql │ └── cte.sql │ ├── JOINS/ │ ├── office_Database_db.sql │ └── joins.sql │ ├── SUBQUERIES/ │ ├── company_operations_db.sql │ └── subquery.sql │ ├── VIEWS/ │ ├── retail_system_db.sql │ ├── view_user.sql │ └── views.sql │ ├── WINDOW FUNCTION/ │ ├── employee_db_windowFunction.sql │ ├── gadget_hub_db_windowFunction.sql │ ├── windowFunction_employee_1.sql │ └── windowFunction_gadget_hub_2.sql ``` </pre>
-│ ├── windowFunction_employee_1.sql
-│ └── windowFunction_gadget_hub_2.sql
