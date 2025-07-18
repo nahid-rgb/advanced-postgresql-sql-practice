@@ -76,20 +76,25 @@ Each folder contains both queries and a sample database to run those queries:
 ## 📂 Folder Structure
 
 📁 advanced_postgresql_sql/
-├── 📁 CTE/
-│ ├── office_cte_db
-│ └── cte
-├── 📁 JOINS/
-│ ├── Office_Database_db
-│ └── joins
-├── 📁 SUBQUERIES/
-│ ├── company_operations_db
-│ └── subquery
-├── 📁 VIEWS/
-│ ├── retail_system_db
-│ └── views
-├── 📁 WINDOW FUNCTION/
-│ ├── employee_db_windowFunction
-│ ├── gadget_hub_db_windowFunction
-│ ├── windowFunction_employee_1
-│ └── windowFunction_gadget_hub_2"# advanced-postgresql-sql-practice" 
+├── CTE/
+│ ├── office_cte_db.sql
+│ └── cte.sql
+│
+├── JOINS/
+│ ├── office_Database_db.sql
+│ └── joins.sql
+│
+├── SUBQUERIES/
+│ ├── company_operations_db.sql
+│ └── subquery.sql
+│
+├── VIEWS/
+│ ├── retail_system_db.sql
+│ ├── view_user.sql
+│ └── views.sql
+│
+├── WINDOW FUNCTION/
+│ ├── employee_db_windowFunction.sql
+│ ├── gadget_hub_db_windowFunction.sql
+│ ├── windowFunction_employee_1.sql
+│ └── windowFunction_gadget_hub_2.sql
